@@ -17,6 +17,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33180#Book-of-Hymns-for-Public-and-Private-Devotion
 gutenberg_issued: '2010-07-15'
 gutenberg_type: Text
 identifiers:
